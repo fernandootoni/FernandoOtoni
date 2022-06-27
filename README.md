@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FernandoOtoni
 - 👀 Looking for opportunities
-- 🌱 HTML, CSS and Javascript, Firebase, jQuery and Bootstrap
+- 🌱 HTML, CSS, Javascript, Firebase, jQuery and Bootstrap
 - 💞️ I’m looking to collaborate on everything i can learn
 - 📫 How to reach me... Instagram @fernandootoni, e-mail feer.otoni@hotmail.com
 
