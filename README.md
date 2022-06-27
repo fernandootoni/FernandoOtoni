@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FernandoOtoni
+- 👋 Hi, I’m Fernando Otoni
 - 👀 Looking for opportunities
 - 🌱 HTML, CSS, Javascript, Firebase, jQuery and Bootstrap
 - 💞️ I’m looking to collaborate on everything i can learn
