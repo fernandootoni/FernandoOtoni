@@ -1,6 +1,6 @@
 ## Hey there, I'm Fernando Otoni ✋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernandootoni/) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-otoni-04b252134/) [![!Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/fernandootoni?hr_r=1)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-otoni-04b252134/) [![!Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/fernandootoni?hr_r=1) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernandootoni/) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandootoni&show_icons=true&theme=dark)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandootoni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
