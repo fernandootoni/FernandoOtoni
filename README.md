@@ -1,10 +1,3 @@
-- 👋 Hi, I’m Fernando Otoni
-- 👀 Looking for opportunities
-- 🌱 React.js, NodeJs, C#, HTML, CSS, Javascript, Firebase, jQuery and Bootstrap
-- 💞️ I’m looking to collaborate on everything i can learn
-- 📫 How to reach me... Instagram @fernandootoni, e-mail feer.otoni@hotmail.com
+### Olá, Eu sou o Fernando Otoni ✋
 
-<!---
-FernandoOtoni/FernandoOtoni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Blog](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://www.linkedin.com/in/fernando-otoni-04b252134/)[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.linkedin.com/in/fernando-otoni-04b252134/)[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-otoni-04b252134/)
