@@ -16,7 +16,7 @@
 
   Technology enthusiast passionate about creating innovative software solutions. With extensive experience in programming and deep knowledge of various technologies, he is dedicated to building cutting-edge applications that can positively impact people's lives. my experience in web development combined with a passion for learning and exploring new technologies makes me a great addition to any tech team. Always looking to continually strive to improve my skills as a developer!
 
-## Ultimos projetos
+## Latest projects
 - [My Library - Node React MongoDB](https://github.com/fernandootoni/My-Library)
 - [Get a Pet - Node React MongoDB](https://github.com/fernandootoni/GetAPet-NodeJs-MongoDB-MVC)
 - [Rentx - Node Typescript SQL](https://github.com/fernandootoni/Ignite-Nodejs)
