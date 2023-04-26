@@ -18,3 +18,6 @@ Apaixonado por tecnologia...
 
 ## Ultimos projetos
 - [My Library - Node React MongoDB](https://github.com/fernandootoni/My-Library)
+- [Get a Pet - Node React MongoDB](https://github.com/fernandootoni/GetAPet-NodeJs-MongoDB-MVC)
+- [Rentx - Node Typescript SQL](https://github.com/fernandootoni/Ignite-Nodejs)
+- [ToDo - Node Typescript Serverless](https://github.com/fernandootoni/Serverless-ToDo)
