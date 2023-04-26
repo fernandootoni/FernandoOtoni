@@ -4,7 +4,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandootoni&show_icons=true&theme=dark)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandootoni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologies
+## Technologies
 <div style="display: inline_block">
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
@@ -14,7 +14,7 @@
   <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div><br/>
 
-Technology enthusiast passionate about creating innovative software solutions. With extensive experience in programming and deep knowledge of various technologies, he is dedicated to building cutting-edge applications that can positively impact people's lives. my experience in web development combined with a passion for learning and exploring new technologies makes me a great addition to any tech team. Always looking to continually strive to improve my skills as a developer!
+  Technology enthusiast passionate about creating innovative software solutions. With extensive experience in programming and deep knowledge of various technologies, he is dedicated to building cutting-edge applications that can positively impact people's lives. my experience in web development combined with a passion for learning and exploring new technologies makes me a great addition to any tech team. Always looking to continually strive to improve my skills as a developer!
 
 ## Ultimos projetos
 - [My Library - Node React MongoDB](https://github.com/fernandootoni/My-Library)
