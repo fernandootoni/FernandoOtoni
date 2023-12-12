@@ -2,6 +2,8 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-otoni-04b252134/) [![!Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/fernandootoni?hr_r=1) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fernandootoni/) 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandootoni&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Technologies
 <div style="display: inline_block">
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
